@@ -1,3 +1,14 @@
 # NonTraditionalMarae
 Non Traditional Marae Data Sovereignty Dataset v 0.1 
-Kia ora, nau mai, haere mai. 👋 😄 Pronouns: he/him/ia 🔭 I’m currently working on a data set of Iwi and hapū names that will allow for Hapū Data Soverignty of collected data in government and various other databases. The intention is that this data set can be included into an new or existing database that allows the individual to choose both an Iwi and hapū. 🤔 I’m looking for collaboration to review this living data 👯 Also to hear from people using the data set. 📫 http://www.taiuru.maori.nz
+
+Kia ora, nau mai, haere mai. 👋 😄 
+
+Pronouns: he/him/ia 🔭
+
+I’m currently working on Māori data sets of Iwi, hapū and marae names that will allow for varioius Māori Data Soverignty data sets of collected data in government and various other databases. 
+
+The intention is that these data sets can be included into an new or existing database that allows the individual to choose thier Iwi, hapū and or marae.
+
+🤔 I’m looking for collaboration to review this living data 👯 
+
+Also to hear from people using the data set. 📫 http://www.taiuru.maori.nz
